@@ -1,4 +1,4 @@
-TWRP Device Tree for Samsung M12
+Disable debug is last commit TWRP Device Tree for Samsung M12
 ===================================
 
 The Samsung M12 (codename _"m12"_) have following parameters:
